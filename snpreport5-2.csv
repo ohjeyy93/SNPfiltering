@@ -1,0 +1,5 @@
+Gene,BasePOS,Ref,Alt,AAref,AAalt,Depth,AF,Mutation,QD
+DHFR,176,T,C,L,S,341,1,Major,28.73
+DHFR,324,G,A,K,K,324,1,Major,30.9
+PfMDR1,257,A,T,E,V,104,0.5,Minor,18.99
+PfMDR1,552,A,T,I,I,148,0.5,Minor,15.72
